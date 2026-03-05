@@ -1,0 +1,25 @@
+{
+    "dlcs": [
+        {
+            "id": "nmi",
+            "name": "No More Innocence",
+            "songName": "Sociophobia",
+            "zipUrl": "",
+            "description": ""
+        },
+        {
+            "id": "lordx",
+            "name": "LordX",
+            "songName": "",
+            "zipUrl": "",
+            "description": ""
+        },
+        {
+            "id": "sally",
+            "name": "Sally",
+            "songName": "",
+            "zipUrl": "",
+            "description": ""
+        }
+    ]
+}
